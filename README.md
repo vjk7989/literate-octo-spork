@@ -1,10 +1,6 @@
-## ZK-Block - Boilerplate & Tools for ZK Dapps
 
-Website- [zkblock](https://zkblock.app)
 
-![](https://i.imgur.com/waxVImv.png)
 
-This repository is part of zkblock. If you want to add more tools please create a pr with tools details in `data/tool.ts`
 
 #### Run locally
 
